@@ -1,5 +1,7 @@
 # Ultima 8 - Story Rework
 
+This is a Story Rework from Ultima 8 written in German. The goal is to preserve the general Ultima 8 Storyline but finish the sideplots and dialogs in the game.
+
 ### Motivation
 
 Ultima 8 is an unfinished game. Issues like story plot holes, bad combat gameplay, jumping "puzzles", unfinished maps making it not that good.
