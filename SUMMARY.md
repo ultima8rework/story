@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Ultima 8 - Story Rework](README.md)
 
