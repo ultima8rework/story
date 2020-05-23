@@ -4,7 +4,5 @@ description: Transcription of the Guardian in the Introduction
 
 # Introduction
 
-// In Deutsch schreiben
-
-Guardian: "Your two worlds will be crushed... Britannia first, then Earth! I shall parade you before their conquered peoples, as the fallen idol of a pathetic ideal!"
+**Guardian**: "Du bist mir schon viel zu lange ein Dorn im Auge Avatar. Ich werde deine beiden Welten zermalmen. Zuerst Britannia, dann die Erde. Ich werde dich den besiegten Völkern vorführen, als das gefallene Idol eines lächerlichen Ideals. Ich verbanne dich in die Welt Pagan. Hier kennt niemand... den Avatar."
 
