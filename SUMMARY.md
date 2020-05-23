@@ -6,6 +6,7 @@
 ## Transcription
 
 * [Introduction](transcription/introduction.md)
+* [Devon](transcription/devon.md)
 
 ## Introduction
 
