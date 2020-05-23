@@ -38,7 +38,13 @@ _Devon erneut ansprechen._
 **A:** Was soll ich tun?  
 **D:** Nun, wenn Ihr Euch besser fühlt, solltet ihr vielleicht Tenebrae besuchen. Hier gibt es nichts zu sehen, es sei denn, Ihr wollt mich beim Fischen begleiten. Aber in Tenebrae gibt es für einen Mann wie Euch viel zu erleben. Ich weiß sogar genau, wer Euch weiterhelfen könnte. Besucht Bentic in der Bibliothek im Ostteil der Stadt. Er ist sehr weise und kann Euch alle über dieses Land und sein Volk erzählen. Ja, Ihr solltet am besten als nächstes mit ihm sprechen. Lebt wohl, oida, und viel Glück. 
 
-### Missing
+### Issues - Plot holes - dialog cut
+
+Devon hat unser Tagebuch gefunden. Steht da nicht mehr drin als unser Name?
+
+In Ultima 8 findet man sofort den Tod, falls man ins Wasser fällt. Warum ist der Avatar nicht Tod nach dem der Guardian ihn ins Wasser fallen hat lassen?
+
+Warum ist Devon so freundlich zu uns? Warum hat der Avatar soviel Glück gerade einer freundlichen Person in die Hände zu fallen? obwohl er sagt Tenebrae ist ein Ort der Gewalt. Warum ist Devon keine gewalttätige Person?
 
 
 

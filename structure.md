@@ -14,3 +14,5 @@ Dialogoptionen: Auflistung der Dialogoptionen mit Ankerlink und Nummerierung zur
 
 Dialog X: Die Dialogoption X \(X ist eine Zahl zwischen 1....99\) mit Voraussetzung.
 
+Eine Sektion wird "Issues - Plot holes - dialog cut" genannt und hier werden wir Fragen stellen für späteres Bearbeiten.
+
