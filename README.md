@@ -19,6 +19,8 @@ For the first transcription I relay on [https://gigi.nullneuron.net/ultima/u8/wa
 * Play Ultima 8 as I used to \(so as authentic as possible\) and mark possible plot holes
 * Augment existing maps on the internet \(there are maps of the game, there I have to mark NPC, Quests, Chests\)
 * Replay again and enhance the plot holes
+* Transcribe the main story in german
+* Transcribe the sideplots in german
 * Starting a blog on how my journey is going on
 * Creative phase: Take the plot holes and try to make own interesting stories
 * Waiting for Elder Scrolls 6 and the Modkit
