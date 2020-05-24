@@ -20,4 +20,5 @@
 
 * [Books](books/books.md)
 * [Das Auge](books/das-auge.md)
+* [Das Entgiften eines Kith](books/das-entgiften-eines-kith.md)
 
