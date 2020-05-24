@@ -16,3 +16,8 @@
 
 * [Docs](docks-and-tenebrae/docs.md)
 
+## Books
+
+* [Books](books/books.md)
+* [Das Auge](books/das-auge.md)
+
