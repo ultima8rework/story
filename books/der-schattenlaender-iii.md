@@ -1,2 +1,8 @@
 # Der Schattenländer III
 
+Der Schattenländer: Band III von Kram verfasst
+
+Der Fremde auf dem riesigen, weißen Hordax ritt langsam durch das kleine Dorf. Vor der Taverne stieg er ab, band die Zügel an einen Pfosten und ging gemächlich auf die Eingangstür zu. Es war sehr voll und die Kellnerinnen hatten alle Hände voll zu tun, um es ihren ungeduldigen Kunden recht zumachen. An einem langen Stammtisch grölten die betrunkenen Hirten durcheinander. Als der Fremde eintrat, senkte sich plötzlich Stille über die fröhlichen Gäste. Durch die Dunstwolken sahen sie, wie der Mann im schwarzen Umhang an die Theke trat und mit einem Finger auf den stärksten Whiskey zeigte. Der Gastwirt gehorchte der befehlerischen Geste sofort und goss ihm mit zitternder Hand einen Doppelten ein. Die Frauen entschuldigten sich bei ihren Begleitern und gaben vor, das Puderzimmer aufsuchen zu müssen. Sie verließen eilig den Raum. Plötzlich erklang eine hohe, nasale Stimme in der eisigen Stille.  
+"Schattenländer! So einer wie Euch ist in dieser Gegend nicht willkommen! Wusstet Ihr das denn nicht?" Die Hirten wichen eilig vor dem Fremden zurück, der sich umgedreht hatte und langsam auf die Ecke zuging, aus der die Herausforderung gekommen war. An einem Ecktisch saß ein untersetzter kleiner Nobbit. Er lächelte verächtlich und spielte mit dem Griff seines juwelenbesetzten Dolchs. Auf seinem Hals war eine große Tätowierung eines Hirtenstabs zu sehen. Nur den wenigen Anführern war es erlaubt, diese Markierungen offen zu tragen.  
+In der Taverne hätte man eine Stecknadel fallen hören können. Alle hielten den Atem an.
+
