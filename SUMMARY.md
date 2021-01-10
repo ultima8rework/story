@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Ultima 8 - Story Rework](README.md)
-* [Structure](structure.md)
+* [Structure 123](structure.md)
 
 ## Transcription
 

@@ -1,4 +1,4 @@
-# Structure
+# Structure 123
 
 Wir verwenden zwei verschiedene Ordnerstrukturen für unser Story Rework. Transcription oder alle anderen :\) Alle anderen Ordner sind Walkthrough Abschnitte wie Beispielsweise die Stadt Tenebrea oder den Friedhof. Diese Abschnitte beschreiben dei Umgebung, welche NPC wo zu finden ist und den dementsprechenden Link zum Transcription. Im späteren Verlauf wird es einen Story Ordner geben, welche den roten Faden der Hauptstory beschreibt \(als eine Datei\) und für jede Nebenquest je Gebiet in eine seperate Datei.
 
