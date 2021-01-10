@@ -38,7 +38,7 @@
 * [Die Zeitschrift für Abenteurer Ausgabe IX](books/die-zeitschrift-fuer-abenteurer-ausgabe-ix.md)
 * [Eine Chronik Pagans](books/eine-chronik-pagans.md)
 * [Eine objektive Darstellung paganischer Geschichte](books/eine-objektive-darstellung-paganischer-geschichte.md)
-* [Magie der Erde](books/magie-der-erde.md)
+* [Die Magie der Erde](books/magie-der-erde.md)
 * [Moriens, das Leben eines Nekromanten, Propheten und Helden](books/moriens-das-leben-eines-nekromanten-propheten-und-helden.md)
 * [Reisenotizen 2](books/reisenotizen-2.md)
 * [Rhian](books/rhian.md)
